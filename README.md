@@ -9,7 +9,7 @@ La aplicación se conecta a los componentes del teléfono, principalmente la cá
 
 La foto/video en conjunto con el resto de los datos, es luego enviada a los servidores backend para ser analizados por un algoritmo realizado por el alumno Ulises Bussi [COMPLETAR MAS INFORMACION].
 
-![Diagram](https://raw.githubusercontent.com/lucaswfh/dataowldocs/master/src/assets/img/Diagram.jpeg)
+![Diagram](https://raw.githubusercontent.com/lucaswfh/dataowldocs/master/assests/img/Diagram.jpg)
 
  La particularidad de este aplicativo, es que no requiere Internet al momento de realizar la acción, ya que la información será guardada y enviada al momento en que la señal esté disponible.
 También se realizará un acceso web al servidor, en el cual los técnicos y especialistas podrán ingresar y realizar la identificación manualmente
