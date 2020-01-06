@@ -18,4 +18,8 @@ También se realizará un acceso web al servidor, en donde los tecnicos y especi
 
 En la seccion de Wiki de este repositorio, se ira llenando la informacion de lo realizado para cada entrega (POC - Sprints) y en cada seccion de la aplicacion (Mobile, Backend y Web)
 
+[Backend](https://github.com/lucaswfh/dataowlbackend)
 
+[Mobile](https://github.com/lucaswfh/dataowlmobile)
+
+[Frontend](https://github.com/lucaswfh/dataowlweb)
